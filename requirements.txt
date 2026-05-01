@@ -26,3 +26,5 @@ nltk
 
 wordcloud
 plotly
+
+imbalanced-learn
