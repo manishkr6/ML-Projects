@@ -1,4 +1,22 @@
 FraudDetection/AIML Dataset.csv
-.venv
+.venv/
 
 *.db
+*.sqlite
+*.sqlite3
+
+# Dataset and model artifacts
+*.csv
+*.tsv
+*.parquet
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.onnx
+*.sav
+models/
+data/
